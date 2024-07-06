@@ -9,11 +9,15 @@
 ➜ I've done several projects as a developer, Discord Bots, Websites, Servers, Api's, and I've also done projects involved with robotics and CNC programming/machining.
 
 ## 🗨️ » **Contact**
-<p align="center">
-  <a href="https://discord.com/users/465599065007194113" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-1/465599065007194113.png" />
-  </a>
-</p>
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/victordoui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:victordoui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victordoui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ## ♥️ » **Some projects**
 <p align="center">
@@ -53,7 +57,3 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devdimer&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=devdimer&style=for-the-badge)
