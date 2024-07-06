@@ -8,7 +8,7 @@
 
 ➜ I've done several projects as a developer, Discord Bots, Websites, Servers, Api's, and I've also done projects involved with robotics and CNC programming/machining.
 
-## 🗨️ » **Contact**
+## 🗨️ » **Contatos**
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/victordoui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -19,13 +19,9 @@
   
 </div>
 
-## ♥️ » **Some projects**
-<p align="center">
-  <a href="https://github.com/devdimer/cordium.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devdimer&repo=cordium.js" /></a>
-  <a href="https://github.com/devdimer/discord-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devdimer&repo=discord-clone" /></a>
-</p>
+## ♥️ » **Alguns projetos**
 
-## 💫 » **My skills**
+## 💫 » **Minhas habilidades**
 - Languages:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
